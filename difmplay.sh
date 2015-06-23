@@ -83,7 +83,7 @@ CHANNELS_DI=" ambient bigroomhouse breaks chillhop chillout chilloutdreams \
 chillstep chiptunes classiceurodance classiceurodisco classictechno \
 classictrance classicvocaltrance club clubdubstep cosmicdowntempo darkdnb \
 deephouse deepnudisco deeptech discohouse djmixes downtempolounge \
-drumandbass dubstep eclectronica electro electronicpioneers epictrance \
+drumandbass dubstep eclectronica electro electroswing electronicpioneers epictrance \
 eurodance funkyhouse futuresynthpop gabber glitchhop goapsy handsup \
 hardcore harddance hardstyle hardtechno house latinhouse liquiddnb \
 liquiddubstep lounge mainstage minimal moombahton oldschoolacid progressive \
